@@ -17,7 +17,7 @@ svg {
 .svg-content-responsive {
     display: inline-block;
     position: absolute;
-    pointer-events: none;
+    pointer-events: fill;
     padding-left: 0px;
     padding-right: 0px;
     padding-top: 0px;
